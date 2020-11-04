@@ -150,7 +150,7 @@ function obtenerId() {
 
 function actualizarLista() {
     divTabla.innerHTML = "";
-    document.getElementById("divTabla").innerHTML='<img src="../images/rueda.gif" >'
+    document.getElementById("divTabla").innerHTML='<img src="../images/37.gif" >'
 
     setTimeout(() => {
 
